@@ -1,5 +1,4 @@
 import re
-
 def normalize_phone(phone_number: str) -> str | None:
     """
     Нормалізує телефон до міжнародного формату.
